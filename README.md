@@ -2,7 +2,7 @@
 
 ---
 
-[LintCode](http://www.lintcode.com/zh-cn/problem/)刷题记录：
+[LintCode](http://www.lintcode.com/zh-cn/problem/)刷题记录
 
 从入门开始，按照ladder对AC的题目进行总结，包括源码，解题思路和注意的问题。
 
